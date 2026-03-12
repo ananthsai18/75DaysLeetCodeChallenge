@@ -3,9 +3,9 @@ class Solution:
         n=len(nums)
         dic={}
         for i in range(n):
-            comp=target-nums[i]
-            if comp in dic:
-                return [dic[comp],i]
+            complement=target-nums[i]
+            if complement in dic:
+                return [dic[complement],i]
             else:
                 dic[nums[i]]=i
         
