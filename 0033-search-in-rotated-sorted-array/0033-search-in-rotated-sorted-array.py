@@ -7,22 +7,21 @@ class Solution:
             guess=(low+high)//2
             if nums[guess]==target:
                 return guess
+
             elif nums[guess]<nums[n-1]:
-                if nums[guess]>target:
+                if target<nums[guess]:
                     high=guess-1
                 else:
-                    if target >nums[n-1]:
-                        high=guess-1
-                    else:
+                    if target <=nums[n-1]:
                         low=guess+1
+                    else:
+                        high=guess-1
             else:
-                if nums[guess]<target:
+                if target>nums[guess]:
                     low=guess+1
                 else:
-                    if nums[0]>target:
+                    if target<nums[0]:
                         low=guess+1
                     else:
                         high=guess-1
         return -1
-           
-        
