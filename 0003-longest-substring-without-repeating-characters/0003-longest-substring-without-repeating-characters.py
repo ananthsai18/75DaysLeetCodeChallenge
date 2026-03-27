@@ -2,7 +2,7 @@ class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         if s=="":
             return 0
-        temp=""
+        temp=set()
         maxi=float("-inf")
         i=0
         n=len(s)
@@ -10,11 +10,11 @@ class Solution:
 
             if s[j] in temp:
                 while s[j] in temp:
-                    temp=temp[1:]
+                    temp.remove(s[i])
                     i+=1
-                temp+=s[j]
+                temp.add(s[j])
             else:
-                temp+=s[j]
+                temp.add(s[j])
 
             print(temp)
             maxi=max(maxi,j-i+1)
