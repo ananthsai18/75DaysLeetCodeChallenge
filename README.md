@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -144,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
