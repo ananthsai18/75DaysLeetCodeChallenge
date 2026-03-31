@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
