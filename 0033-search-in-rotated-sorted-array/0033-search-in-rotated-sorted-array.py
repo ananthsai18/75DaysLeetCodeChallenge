@@ -4,24 +4,24 @@ class Solution:
         low=0
         high=n-1
         while(low<=high):
-            guess=(low+high)//2
-            if nums[guess]==target:
-                return guess
-
-            elif nums[guess]<nums[n-1]:
-                if target<nums[guess]:
-                    high=guess-1
+            mid=(low+high)//2
+            if nums[mid]==target:
+                return mid
+            elif nums[mid]<=nums[n-1]:
+                if nums[mid]>target:
+                    high=mid-1
                 else:
-                    if target <=nums[n-1]:
-                        low=guess+1
+                    if target<=nums[n-1]:
+                        low=mid+1
                     else:
-                        high=guess-1
+                        high=mid-1
             else:
-                if target>nums[guess]:
-                    low=guess+1
+                if nums[mid]<target:
+                    low=mid+1
                 else:
                     if target<nums[0]:
-                        low=guess+1
+                        low=mid+1
                     else:
-                        high=guess-1
+                        high=mid-1
         return -1
+        
