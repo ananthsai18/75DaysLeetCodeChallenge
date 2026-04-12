@@ -22,9 +22,16 @@ class Solution:
         slow.next = None
         
         #step 3: merge lists
-        head1, head2 = head, prev
-        while head2:
-            nextt = head1.next
-            head1.next = head2
-            head1 = head2
-            head2 = nextt
+       
+        first, second = head, prev
+
+        while second:
+            temp1 = first.next
+            temp2 = second.next
+
+            first.next = second
+            second.next = temp1
+
+            first = temp1
+            second = temp2
+            
