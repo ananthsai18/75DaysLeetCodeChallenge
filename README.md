@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3783-mirror-distance-of-an-integer](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3783-mirror-distance-of-an-integer) |
 ## Stack
 |  |
 | ------- |
