@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2540-minimum-common-value](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2733-neither-minimum-nor-maximum) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3110-score-of-a-string](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Divide and Conquer
