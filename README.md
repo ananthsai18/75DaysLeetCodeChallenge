@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2540-minimum-common-value](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2733-neither-minimum-nor-maximum) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0844-backspace-string-compare](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Divide and Conquer
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Matrix
 |  |
 | ------- |
