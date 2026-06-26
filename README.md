@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2540-minimum-common-value](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
 ## Dynamic Programming
 |  |
