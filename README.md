@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1470-shuffle-the-array](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1512-number-of-good-pairs](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
+| [1512-number-of-good-pairs](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [2540-minimum-common-value](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3046-split-the-array](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3046-split-the-array) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [1512-number-of-good-pairs](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [3046-split-the-array](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3046-split-the-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Quickselect
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3783-mirror-distance-of-an-integer) |
 ## Stack
 |  |
