@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
+| [2325-decode-the-message](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2325-decode-the-message) |
 | [2540-minimum-common-value](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3046-split-the-array](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3046-split-the-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2325-decode-the-message](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2325-decode-the-message) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3110-score-of-a-string](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
