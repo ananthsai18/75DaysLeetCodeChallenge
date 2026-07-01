@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [2325-decode-the-message](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2325-decode-the-message) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0645-set-mismatch](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [1094-car-pooling](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2733-neither-minimum-nor-maximum) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 ## Segment Tree
 |  |
 | ------- |
