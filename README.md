@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [1094-car-pooling](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2733-neither-minimum-nor-maximum) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3110-score-of-a-string](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -340,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
