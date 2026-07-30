@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2325-decode-the-message](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2325-decode-the-message) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
 ## Dynamic Programming
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3783-mirror-distance-of-an-integer) |
 ## Stack
 |  |
