@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3046-split-the-array](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3046-split-the-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
+| [3731-find-missing-elements](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3046-split-the-array](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3046-split-the-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3731-find-missing-elements](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sorting
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/2733-neither-minimum-nor-maximum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/ananthsai18/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
